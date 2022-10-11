@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on 我的Linux学习心得</title>
+    <link>https://qikeqi.github.io/post/</link>
+    <description>Recent content in Posts on 我的Linux学习心得</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 12 Oct 2022 06:33:27 +0800</lastBuildDate><atom:link href="https://qikeqi.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blog</title>
+      <link>https://qikeqi.github.io/post/blog/</link>
+      <pubDate>Wed, 12 Oct 2022 06:33:27 +0800</pubDate>
+      
+      <guid>https://qikeqi.github.io/post/blog/</guid>
+      <description>在大三中，我新学习了Linux的知识，以下为Linux的一些学习心得 （1）基本的vim编辑语法 （2）各种命令执行，比如grep、awk （3）</description>
+    </item>
+    
+  </channel>
+</rss>
