@@ -19,8 +19,7 @@
 (3)将hugo的代码配置到github上，使用命令如下： git remote add origin https://github.com/qikeqi/qikeqi.github.io git commit -m &amp;ldquo;first commit&amp;rdquo; git push -u origin master (4)开始编写博客，第一个编写的为blog.md
 (5)创建分支为homework，设置commit为“初步完成网站”，并把上面编写的博客内容上传到github上，使用git push命令进行同步
 (6)编写第二个博客为work.md，里面的内容为大作业具体完成步骤
-(7)创建分支为homework2，设置commit为“完成work.md编写”，将第6步内容上传到分支
-(8)</description>
+(7)设置commit为“第3次提交”，将第6步内容上传到分支master</description>
     </item>
     
     <item>
