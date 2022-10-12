@@ -1,19 +1,37 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on 我的Linux学习心得</title>
-    <link>https://qikeqi.github.io/post/</link>
-    <description>Recent content in Posts on 我的Linux学习心得</description>
+    <title>Posts on 我的Linux学习之路</title>
+    <link>https://github.com/qikeqi/qikeqi.github.io/post/</link>
+    <description>Recent content in Posts on 我的Linux学习之路</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 12 Oct 2022 06:33:27 +0800</lastBuildDate><atom:link href="https://qikeqi.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 12 Oct 2022 07:24:26 +0800</lastBuildDate><atom:link href="https://github.com/qikeqi/qikeqi.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Blog</title>
-      <link>https://qikeqi.github.io/post/blog/</link>
+      <title>大作业完成步骤</title>
+      <link>https://github.com/qikeqi/qikeqi.github.io/post/work/</link>
+      <pubDate>Wed, 12 Oct 2022 07:24:26 +0800</pubDate>
+      
+      <guid>https://github.com/qikeqi/qikeqi.github.io/post/work/</guid>
+      <description>大作业完成步骤
+(1)下载git、nginx、hugo及其相关环境
+(2)完成hugo相关配置，下载主题，创建了两个博客，分别为blog.md、work.md
+(3)将hugo的代码配置到github上，使用命令如下： git remote add origin https://github.com/qikeqi/qikeqi.github.io git commit -m &amp;ldquo;first commit&amp;rdquo; git push -u origin master (4)开始编写博客，第一个编写的为blog.md
+(5)创建分支为homework，设置commit为“初步完成网站”，并把上面编写的博客内容上传到github上，使用git push命令进行同步
+(6)编写第二个博客为work.md，里面的内容为大作业具体完成步骤
+(7)创建分支为homework2，设置commit为“完成work.md编写”，将第6步内容上传到分支
+(8)</description>
+    </item>
+    
+    <item>
+      <title>Linux学习心得</title>
+      <link>https://github.com/qikeqi/qikeqi.github.io/post/blog/</link>
       <pubDate>Wed, 12 Oct 2022 06:33:27 +0800</pubDate>
       
-      <guid>https://qikeqi.github.io/post/blog/</guid>
-      <description>在大三中，我新学习了Linux的知识，以下为Linux的一些学习心得 （1）基本的vim编辑语法 （2）各种命令执行，比如grep、awk （3）</description>
+      <guid>https://github.com/qikeqi/qikeqi.github.io/post/blog/</guid>
+      <description>在大三中，我新学习了Linux的知识，以下为Linux的一些学习心得 我安装的是VM虚拟机，使用的版本是Openeuler，在下载安装时，没有遇到问题，后面就开始了学习之路。
+正式开始学习后，在老师的带领下，我开始了解Linux的基本命令和语法，比如vim编辑器中，我就学会了文本输入、移动光标、文本修改的方法，还有宏录制该如何进行！除此之外，我还学习了Linux的基本操作，基本上都能完成老师布置的任务。
+学好Linux不是一件一蹴而成的事情，要能坚持使用它。增加自己的Linux技能，只能通过实践来实现。只要多动手，就一定会有收获。遇到问题时，要自己去寻找答案，在寻找答案的过程中，会学习到更多知识。</description>
     </item>
     
   </channel>
